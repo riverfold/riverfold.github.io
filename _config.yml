@@ -1,0 +1,38 @@
+# # # # # # # #
+#   K i k o   #
+# # # # # # # #
+
+# Basic
+name: "Riverfold Software"
+
+title: "Riverfold Software"
+description: "Powered by <a href=\"http://snippets.today/\">Snippets.today</a> and <a href=\"http://jekyllrb.com/\">Jekyll</a>."
+baseurl: "" # e.g. /manton or /az/azasdfasdf
+url: "http://riverfold.snippets.xyz" # the base hostname & protocol for your site
+markdown: kramdown
+
+# Navigation
+nav:
+  - name:           "About"
+    href:           "/about/"
+  - name:           "RSS"
+    href:           "/feed.xml"
+
+# Sass
+sass:
+  style:            :compressed
+
+# Scopes
+defaults:
+  -
+    scope:
+      path:         ""
+      type:         "pages"
+    values:
+      layout:       "page"
+  -
+    scope:
+      path:         ""
+      type:         "posts"
+    values:
+      layout:       "post"
