@@ -5,29 +5,9 @@
     <description>Powered by &lt;a href=&quot;http://snippets.today/&quot;&gt;Snippets.today&lt;/a&gt; and &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt;.</description>
     <link>http://riverfold.snippets.xyz/</link>
     <atom:link href="http://riverfold.snippets.xyz/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 03 Feb 2016 15:57:44 +0000</pubDate>
-    <lastBuildDate>Wed, 03 Feb 2016 15:57:44 +0000</lastBuildDate>
+    <pubDate>Wed, 03 Feb 2016 15:59:51 +0000</pubDate>
+    <lastBuildDate>Wed, 03 Feb 2016 15:59:51 +0000</lastBuildDate>
     <generator>Jekyll v2.5.2</generator>
-    
-      <item>
-        <description>&lt;p&gt;Another test.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 03 Feb 2016 15:57:00 +0000</pubDate>
-        <link>http://riverfold.snippets.xyz/2016/02/03/f0bf.html</link>
-        <guid isPermaLink="true">http://riverfold.snippets.xyz/2016/02/03/f0bf.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <description>&lt;p&gt;Testing for GitHub mirroring.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 03 Feb 2016 15:41:00 +0000</pubDate>
-        <link>http://riverfold.snippets.xyz/2016/02/03/b05a.html</link>
-        <guid isPermaLink="true">http://riverfold.snippets.xyz/2016/02/03/b05a.html</guid>
-        
-        
-      </item>
     
       <item>
         <description>&lt;p&gt;Starting a microblog for general Riverfold Software news. This will replace the Twitter and ADN feeds, and eventually I’ll start cross-posting news from the microblog to those accounts.&lt;/p&gt;
