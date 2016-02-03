@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Riverfold Software</title>
+    <description>Powered by &lt;a href=&quot;http://snippets.today/&quot;&gt;Snippets.today&lt;/a&gt; and &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt;.</description>
+    <link>http://riverfold.snippets.xyz/</link>
+    <atom:link href="http://riverfold.snippets.xyz/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 03 Feb 2016 15:41:23 +0000</pubDate>
+    <lastBuildDate>Wed, 03 Feb 2016 15:41:23 +0000</lastBuildDate>
+    <generator>Jekyll v2.5.2</generator>
+    
+      <item>
+        <description>&lt;p&gt;Testing for GitHub mirroring.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 03 Feb 2016 15:41:00 +0000</pubDate>
+        <link>http://riverfold.snippets.xyz/2016/02/03/b05a.html</link>
+        <guid isPermaLink="true">http://riverfold.snippets.xyz/2016/02/03/b05a.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <description>&lt;p&gt;Starting a microblog for general Riverfold Software news. This will replace the Twitter and ADN feeds, and eventually I’ll start cross-posting news from the microblog to those accounts.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 17 Aug 2015 21:36:00 +0000</pubDate>
+        <link>http://riverfold.snippets.xyz/2015/08/17/778e.html</link>
+        <guid isPermaLink="true">http://riverfold.snippets.xyz/2015/08/17/778e.html</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
